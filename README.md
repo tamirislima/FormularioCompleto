@@ -1,1 +1,1 @@
-Fiz esse formulário para começar a me familiarizar com o mundo dos freelances e logo logo estar entre umas dessas pessoas desenvolvedoras.
+Fiz esse formulário para continuar aprendendo sobre HTML, CSS e Javascript, que eu particularmente adoro, e, logo logo, conquistar uma vaga e ser uma pessoa desenvolvedora.
